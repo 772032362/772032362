@@ -1,8 +1,12 @@
 ### Hi there 👋
 .嗨~ 大家好！
+
 .我的名字叫程国鑫来自河南
+
 .我爱好篮球、羽毛球、吉他
+
 .虽然对计算机专业不是很了解但是我会努力学好它
+
 .最后希望可以在至诚度过开心的四年。
 <!--
 **772032362/772032362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
